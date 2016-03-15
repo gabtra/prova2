@@ -1,4 +1,4 @@
 # prova2
-seconda prova
+seconda pro
 
 modifica del file readme
